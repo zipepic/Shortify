@@ -6,4 +6,4 @@
 [submodule "GoogleOAuthServer"]
 	path = GoogleOAuthServer
 	url = https://github.com/zipepic/GoogleOAuthServer
-	branch = main
+    branch = main

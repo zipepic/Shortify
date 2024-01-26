@@ -1,0 +1,4 @@
+[submodule "ChatApi"]
+	path = ChatApi
+	url = https://github.com/zipepic/ChatApi
+	branch = main

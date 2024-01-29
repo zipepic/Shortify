@@ -7,3 +7,8 @@
 	path = GoogleOAuthServer
 	url = https://github.com/zipepic/GoogleOAuthServer
     branch = main
+
+[submodule "ShortGenServer"]
+	path = ShortGenServer
+	url = https://github.com/zipepic/ShortGenServer
+    branch = main

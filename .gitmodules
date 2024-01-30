@@ -12,3 +12,8 @@
 	path = ShortGenServer
 	url = https://github.com/zipepic/ShortGenServer
     branch = main
+
+[submodule "ShortUploader"]
+	path = ShortUploader
+	url = https://github.com/zipepic/ShortUploader
+    branch = main
